@@ -52,8 +52,7 @@ def hit?
 end
 
 def invalid_command
-  puts "Please enter a valid command."
-  prompt_user 
+  puts "Please enter a valid command"
 end
 
 #####################################################
